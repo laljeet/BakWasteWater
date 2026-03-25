@@ -20,7 +20,7 @@ The repository includes scripts for:
 
 ## Notes
 
-This repository is intended to make the analysis code available and transparent.
+Any questions. Please contact: lsangha@ucanr.edu/lsanghah2o@gmail.com
 
 ## GitHub Repository
 
