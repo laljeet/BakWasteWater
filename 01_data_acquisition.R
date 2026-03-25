@@ -13,7 +13,7 @@ options(tigris_use_cache = TRUE)
 
 ## --- Census API key -----------------------------------------------------------
 ## Uncomment and set your key on first use:
-census_api_key("dd95a92481080ca4a510f61b7e676414dbe67c84", overwrite = TRUE)
+census_api_key("ADD Your Key", overwrite = TRUE)
 
 ## --- Parameters ---------------------------------------------------------------
 
