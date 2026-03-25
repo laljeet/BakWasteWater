@@ -6,7 +6,7 @@ The code supports data acquisition, preprocessing, affordability calculations, s
 
 ## Overview
 
-This project evaluates how current and proposed sewer rates may affect household affordability in the Bakersfield sewer service area.
+This project evaluates how current and proposed sewer rates may affect household affordability in the Bakersfield sewer service area.Full report here: https://ucanr.edu/blog/water-resilience-climate-change-and-water-systems-california/article/affordability-analysis
 
 ## Files
 
